@@ -3,10 +3,7 @@ import './App.css';
 function App() {
     return ( <
         div className = "app" >
-        <
-        h1 > Hello World class2 < /h1>
-
-        <
+        Class2 <
         /div>
     );
 }
