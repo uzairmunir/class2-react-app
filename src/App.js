@@ -4,7 +4,8 @@ function App() {
     return ( <
         div >
         Hello World <
-        /div>
+        h2 > Claas2 < /h2> < /
+        div >
     );
 }
 
