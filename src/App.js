@@ -2,10 +2,12 @@ import './App.css';
 
 function App() {
     return ( <
-        div >
-        Hello World <
-        h2 > Claas2 < /h2> < /
-        div >
+        div className = "app" >
+        <
+        h1 > Hello World class2 < /h1>
+
+        <
+        /div>
     );
 }
 
